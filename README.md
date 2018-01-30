@@ -6,7 +6,7 @@ See the demo: http://indonesian-word-embedding.herokuapp.com
 Right now it serves pre-trained word vectors from [here](https://github.com/Kyubyong/wordvectors). The word vectors are trained on the Word2vec model from Wikipedia texts using the CBOW training algorithm. 
 
 ## 💡 future improvements
-- **Refactoring**. This is my time using Vue so I'm sure there are a lot of things to be refactored that I haven't known yet!
+- **Refactoring**. This is my first time using Vue so I'm sure there are a lot of things to be refactored that I haven't known yet!
 - **Serves multiple models**. Not only Word2vec using CBOW but also Word2vec using skip-gram or even FastText.
 - **Add more in-depth explanations**, possibly for each section.
 - As more explanations are added, **consider using Vuex**.
