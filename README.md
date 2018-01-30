@@ -1,5 +1,5 @@
 # Indonesian Word Embedding
-A web application that demonstrates Indonesian word embedding, inspired by [Word embedding demo](bionlp-www.utu.fi/wv_demo/).
+A web application that demonstrates Indonesian word embedding, inspired by [Word embedding demo](http://bionlp-www.utu.fi/wv_demo/).
 
 See the demo: http://indonesian-word-embedding.herokuapp.com
 
