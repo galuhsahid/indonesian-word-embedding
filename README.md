@@ -1,7 +1,7 @@
 # Indonesian Word Embedding
 A web application that demonstrates Indonesian word embedding, inspired by [Word embedding demo](http://bionlp-www.utu.fi/wv_demo/).
 
-See the demo: http://indonesian-word-embedding.herokuapp.com
+See the demo: http://indonesian-word-embedding.herokuapp.com (might take a few seconds if the app is "asleep"--it needs to be booted and loading the vectors might take a few secs)
 
 Right now it serves pre-trained word vectors from [here](https://github.com/Kyubyong/wordvectors). The word vectors are trained on the Word2vec model from Wikipedia texts using the CBOW training algorithm. 
 
